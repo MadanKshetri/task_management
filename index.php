@@ -15,7 +15,7 @@
     <table class="table table-striped table-bordered">
         <thead>
             <tr>
-                <th scope="col">name</th>
+                <th scope="col">User Name</th>
                 <th scope="col">email</th>
                 <th scope="col">password</th>
                 <th scope="col">Action</th>
